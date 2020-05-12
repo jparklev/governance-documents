@@ -1,7 +1,7 @@
 ---
-title: Raise USDC Stability Fee
-summary: Vote for this proposal to raise the USDC Stability Fee from 0% to 1%
-source: 0xD0DD71814cC2185C3092a477217c9d64E7f3A38E
+title: 'Raise USDC Stability Fee'
+summary: 'Vote for this proposal to raise the USDC Stability Fee from 0% to 1%'
+source: '0xD0DD71814cC2185C3092a477217c9d64E7f3A38E'
 ---
 
 # [Executive Vote] Raise USDC Stability Fee
